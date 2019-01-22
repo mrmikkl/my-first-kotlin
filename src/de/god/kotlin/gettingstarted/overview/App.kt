@@ -1,4 +1,4 @@
-package de.god.kotlin
+package de.god.kotlin.gettingstarted.overview
 
 val PI: Double = 3.14
 
